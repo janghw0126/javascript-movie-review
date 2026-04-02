@@ -29,7 +29,7 @@
 })();
 const BACKDROP_IMAGE_URL = "https://image.tmdb.org/t/p/w1920_and_h800_multi_faces/";
 const THUMB_NAIL_URL = "https://media.themoviedb.org/t/p/w200";
-const API_KEY = void 0;
+const API_KEY = "ef788d51af1bd7b7347d34110f993300";
 const BASE_URL = "https://api.themoviedb.org/3";
 const POPULAR_PATH = "movie/popular";
 const SEARCH_PATH = "search/movie";
